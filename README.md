@@ -14,4 +14,4 @@ clang++ -std=c++11 interpreter.cpp -o interpreter
 ./interpreter [source file]
 ```
 
-The syntax description will be uploaded if I can find it.
+The syntax description will be uploaded, if I can find it.
