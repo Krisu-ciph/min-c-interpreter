@@ -9,7 +9,8 @@ I will fix it, if I have time...
 
 To compile and run:
 
-```clang++ -std=c++11 interpreter.cpp -o interpreter
+```
+clang++ -std=c++11 interpreter.cpp -o interpreter
 ./interpreter [source file]
 ```
 
